@@ -35,5 +35,6 @@ Open the terminal and navigate to the project folder
     `npx cypress run --spec 'path/to/files/*.spec.js'`
 <br>
 ---
+
 ### HTML Report
 After running the tests, a file is generated and stored in the `cypress/reports/html` folder.
