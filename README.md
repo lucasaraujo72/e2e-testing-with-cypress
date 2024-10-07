@@ -34,6 +34,7 @@ Open the terminal and navigate to the project folder
 3. To run a specific test in headless mode:
     `npx cypress run --spec 'path/to/files/*.spec.js'`
 <br>
+
 ---
 
 ### HTML Report
